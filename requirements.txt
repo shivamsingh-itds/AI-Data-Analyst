@@ -1,0 +1,64 @@
+# ==========================
+# FastAPI Backend
+# ==========================
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ==========================
+# AI / LLM
+# ==========================
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-xai
+
+# ==========================
+# Data Processing
+# ==========================
+pandas
+numpy
+openpyxl
+pyarrow
+
+# ==========================
+# Visualization
+# ==========================
+plotly
+matplotlib
+
+# ==========================
+# Frontend
+# ==========================
+streamlit
+
+# ==========================
+# Database
+# ==========================
+duckdb
+sqlalchemy
+
+# ==========================
+# Vector Database
+# ==========================
+chromadb
+sentence-transformers
+
+# ==========================
+# Report Generation
+# ==========================
+reportlab
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv
+
+# ==========================
+# Utilities
+# ==========================
+pydantic
+requests
+httpx
+tabulate
